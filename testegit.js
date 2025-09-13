@@ -8,3 +8,5 @@ if(testGit){
 else{
     console.log("repository Failed");
 }
+
+let git = true;
